@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0023f924-5e5b-41b0-a218-64675e625191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdkey.go" beforeDir="false" afterPath="$PROJECT_DIR$/cdkey.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdkey_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/cdkey_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1l6M3LGKdCyvebVCNJyEQGS7c7e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestBatchGenerateCDKey in cdkeysdk">
+    <configuration name="TestBatchGenerateCDKey in cdkeysdk" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="CDKey-SDK" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cdkeysdk" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestBatchGenerateCDKey\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGenerateCDKey in cdkeysdk" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="CDKey-SDK" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cdkeysdk" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGenerateCDKey\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPadUid in cdkeysdk" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="CDKey-SDK" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="cdkeysdk" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestPadUid\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBatchGenerateCDKey in cdkeysdk" />
+        <item itemvalue="Go Test.TestGenerateCDKey in cdkeysdk" />
+        <item itemvalue="Go Test.TestPadUid in cdkeysdk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="664" height="643" key="DebuggerActiveHint" timestamp="1606918210063">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="664" height="643" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1606918210063" />
+    <state width="1862" height="499" key="GridCell.Tab.0.bottom" timestamp="1606918282215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="499" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606918282215" />
+    <state width="1862" height="499" key="GridCell.Tab.0.center" timestamp="1606918282215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="499" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606918282215" />
+    <state width="1862" height="499" key="GridCell.Tab.0.left" timestamp="1606918282215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="499" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606918282215" />
+    <state width="1862" height="499" key="GridCell.Tab.0.right" timestamp="1606918282215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="499" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606918282215" />
+    <state width="1862" height="167" key="GridCell.Tab.1.bottom" timestamp="1606918251030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="167" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606918251030" />
+    <state width="1862" height="167" key="GridCell.Tab.1.center" timestamp="1606918251030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="167" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606918251030" />
+    <state width="1862" height="167" key="GridCell.Tab.1.left" timestamp="1606918251029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="167" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606918251029" />
+    <state width="1862" height="167" key="GridCell.Tab.1.right" timestamp="1606918251030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="167" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606918251030" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cdkey_test.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cdkey.go</url>
+          <line>66</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
